@@ -1,0 +1,33 @@
+body{
+    background-color:#f5af2d
+}
+#bank{
+    font-size: 50px;
+    text-align: center;
+}
+#pay_div{
+    background-color: white;
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+#donut{
+    text-align:center;
+    font-size: 25px;
+    padding: 5px 0 15px 0;
+    margin:0px;
+}
+#pay{
+    background-color: #2cc670;
+    border-color:#2cc670 ;
+    color:white;
+    margin-left: 10px;
+}
+#card{
+    margin-left: 10px;
+}
+#pin{
+    margin-left: 10px;
+}
