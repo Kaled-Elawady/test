@@ -1,13 +1,15 @@
 body{
     background-color:#f5af2d
 }
-#bank{
-    font-size: 50px;
-    text-align: center;
+#logo{
+
+display: block;    
+width: 8%;
+margin: 10px auto;
 }
 #pay_div{
     background-color: white;
-    width: 400px;
+    width: 30%;
     height: 100px;
     margin: auto;
     border: 5px solid white;
@@ -23,11 +25,13 @@ body{
     background-color: #2cc670;
     border-color:#2cc670 ;
     color:white;
-    margin-left: 10px;
+    margin-left: 1%;
 }
 #card{
-    margin-left: 10px;
+    margin-left: 1%;
+    width: 40%;
 }
 #pin{
-    margin-left: 10px;
+    margin-left: 1%;
+    width: 40%;
 }
